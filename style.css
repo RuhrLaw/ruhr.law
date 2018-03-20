@@ -1,0 +1,33 @@
+h1 {
+	text-align: center;
+	letter-spacing: 0.5em;
+	font-family: "Lobster", sans-serif;
+	color: grey;
+	font-size: 6em;
+	
+	
+
+}
+
+
+
+p {
+	letter-spacing: 0.3em;
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 30px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+	transition: all 4s;
+
+}
+
+img:hover {
+	transform: scale(1.1);
+}
